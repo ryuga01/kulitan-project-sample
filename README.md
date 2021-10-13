@@ -7,3 +7,4 @@
 
 # READING
 - Component Buttons
+-Add basics
